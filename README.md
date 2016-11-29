@@ -31,8 +31,8 @@ Lisa wanted to make sure she wouldn't sell Tim the gun with no ID.
 Tough Tim. Tim loved dancing. Her mom was going to the movies. Jane and Michael went to the beauty pageant. 
 It was christmas morning!
 Bacon Thief. We fried a lot of algae growing on his furniture. Then she went to see a doctor. So she ate them. 
-Tina was drinking a juice box from the fridge. But Adam didn't hesitate to rush right over to help her put shoes on her doll. 
-Her mother told him that was a writing teacher. He decided to buy a decent priced convertible 
+Tina was drinking a juice box from the fridge. But Adam didn't hesitate to rush right over to help her put shoes 
+on her doll. Her mother told him that was a writing teacher. He decided to buy a decent priced convertible 
 Hole in Pocket. Vanity was walking down the road one day really fast. He was trying to reach high ground. 
 Just as Jake got to the point. One evening he met Bernice, and bought hot dogs and made note of the rings she loved.
 
@@ -48,8 +48,11 @@ Just as Jake got to the point. One evening he met Bernice, and bought hot dogs a
 в отставку действующий кабинет – уже четвертая по счету.
 Такая динамика стала реакцией на решение израильского Верховного суда в Гааге большинством в парламенте появится оппозиция,
 я считаю, что безусловным приоритетом для нас является защита жизни и достоинства российских каналов на вещание на территории 
-сектора Газа из-за продолжающихся боев между правительственными силами и воюющими группами, при условии, что министры связи ЕС одобрят на заседании в среду сторона обвинения потребовала от правительственных войск Афганистана погибли и четверо были ранены, 
-один тяжело. Большинство из 202 погибших составили гражданские специалисты в своей области, отобранные со всей Европы сами проектируют воздушные шары и дирижабли, сами запускают их в шведских лесах, и сами анализируют полученные после полета данные.
+сектора Газа из-за продолжающихся боев между правительственными силами и воюющими группами, при условии, что министры связи 
+ЕС одобрят на заседании в среду сторона обвинения потребовала от правительственных войск Афганистана погибли и четверо 
+были ранены, один тяжело. Большинство из 202 погибших составили гражданские специалисты в своей области, 
+отобранные со всей Европы сами проектируют воздушные шары и дирижабли, сами запускают их в шведских лесах, и сами 
+анализируют полученные после полета данные.
 ```
 
 - Generated from Chinese twitter corpus
