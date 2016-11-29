@@ -32,7 +32,8 @@ Tough Tim. Tim loved dancing. Her mom was going to the movies. Jane and Michael 
 Bacon Thief. We fried a lot of algae growing on his furniture. Then she went to see a doctor. So she ate them. 
 Tina was drinking a juice box from the fridge. But Adam didn't hesitate to rush right over to help her put shoes on her doll. 
 Her mother told him that was a writing teacher. He decided to buy a decent priced convertible 
-Hole in Pocket. Vanity was walking down the road one day really fast. He was trying to reach high ground. Just as Jake got to the point. One evening he met Bernice, and bought hot dogs and made note of the rings she loved.
+Hole in Pocket. Vanity was walking down the road one day really fast. He was trying to reach high ground. 
+Just as Jake got to the point. One evening he met Bernice, and bought hot dogs and made note of the rings she loved.
 
 ```
 
