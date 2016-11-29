@@ -17,9 +17,11 @@ and modestly modified for my own needs.
 The script requires some text corpus to train on. Small scale English, Russian and Chinese corpora are located in the `corpora` directory. Here are few usage examples.
 
 - Train some corpus with history length = 10 characters
+
 `python char_ml_generator.py -f ROCStories_2016.txt -p 10`
 
 - Generate 2000 characters (1000 by default)
+
 `python char_ml_generator.py -m ROCStories_2016.txt.pickle -g 2000`
 
 
