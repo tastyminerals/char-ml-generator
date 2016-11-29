@@ -20,7 +20,7 @@ The script requires some text corpus to train on. Small scale English, Russian a
 
 `python char_ml_generator.py -f ROCStories_2016.txt -p 10`
 
-- Generate 2000 characters (1000 by default)
+- Generate 2000 characters
 
 `python char_ml_generator.py -m ROCStories_2016.txt.pickle -g 2000`
 
